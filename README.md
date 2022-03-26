@@ -1,2 +1,2 @@
 # awesome-android
-**Awesome list of Android Plugins**
+**An awesome list of Android Plugins**
