@@ -1,3 +1,4 @@
 # awesome-android [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Mentors4EDU/awesome-android)
 **An awesome list of Android plugins**
 1. [YALI](https://www.opensourceagenda.com/projects/android-layout-inspector)
+2. [Duckly](https://plugins.jetbrains.com/plugin/14919-duckly-pair-programming-tool)
