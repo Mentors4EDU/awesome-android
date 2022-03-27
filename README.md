@@ -4,5 +4,6 @@
 2. [Duckly](https://plugins.jetbrains.com/plugin/14919-duckly-pair-programming-tool)
 3. [tabnine](https://www.tabnine.com/now)
 4. [ADB Idea](https://plugins.jetbrains.com/plugin/7380-adb-idea/)
-5. [VisualVM Launcher](https://plugins.jetbrains.com/plugin/7115-visualvm-launcher)
-6. [CPU Usage Indicator](https://plugins.jetbrains.com/plugin/8580-cpu-usage-indicator)
+5. [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
+6. [VisualVM Launcher](https://plugins.jetbrains.com/plugin/7115-visualvm-launcher)
+7. [CPU Usage Indicator](https://plugins.jetbrains.com/plugin/8580-cpu-usage-indicator)
